@@ -5,6 +5,7 @@ public class app2 {
         // komentarz c0
         // komentarz c1
         // komentarz c2
+        // komentarz c2 clone
 
 
     }
